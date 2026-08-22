@@ -40,7 +40,8 @@
   
 * Atualmente estou focando meus estudos em Desenvolvimento de Softwares.
   
-* Focado em resolução de problemas, lógica de programação e aprendizado de novas tecnologias
+* Focado em resolução de problemas, lógica de programação e aprendizado de novas
+  tecnologias
   
 * Interesse em segurança da informação e segurança de sistemas
   
