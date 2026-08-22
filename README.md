@@ -1,8 +1,13 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=220&section=header&text=Olá%2C%20meu%20nome%20é%20Samuel%20Ribeiro&fontSize=28&fontColor=ffffff&fontAlignY=40&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=16&descColor=38BDF8&descAlignY=60&animation=fadeIn" width="100%" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=120&section=header&animation=fadeIn" width="100%" />
 </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323+Mono&weight=600&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Samuel+Ribeiro;Estudante+de+Engenharia+de+Software;Bem-vindo+ao+meu+perfil" alt="Typing Animation" />
+  </p>
 
   <p>
     <a href="https://linkedin.com/in/samuel-r-braga" target="_blank">
@@ -26,7 +31,7 @@
 
 ### Sobre Mim
 
-<img align="right" src="COLE_AQUI_O_LINK_DO_SEU_GIF" width="140" alt="Globo 3D" />
+<img align="right" src="https://github.com/user-attachments/assets/c46ff0dd-bad7-460e-aaa2-d8e7550088df" width="340" alt="esfera gif" />
 
 * Estudante de Engenharia de Software na UCB.
 * Atualmente estou focando meus estudos em Desenvolvimento de Softwares.
@@ -38,7 +43,9 @@
 
 [![samuelbraga-git github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelbraga-git&bg_color=000000&color=#7928CA&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
+<span>𝕯𝖊𝖘𝖊𝖓𝖛𝖔𝖑𝖛𝖎𝖉𝖔 𝖕𝖔𝖗 𝖘𝖆𝖒𝖚𝖊𝖑 𝖗𝖎𝖇𝖊𝖎𝖗𝖔</span>
 
+<div align="center">
+  <!-- Rodapé Animado -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=902BF5&height=120&section=footer" width="100%" />
 </div>
