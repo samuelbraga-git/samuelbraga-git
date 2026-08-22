@@ -34,14 +34,14 @@
 
 ### Sobre Mim
 
-<img align="right" width="220" height="220" alt="dark-gengar" src="https://github.com/user-attachments/assets/06c89791-664b-4982-bf3f-654f25f8c64e" />
+<img align="right" width="300" height="300" alt="dark-gengar" src="https://github.com/user-attachments/assets/06c89791-664b-4982-bf3f-654f25f8c64e" />
 
 * Estudante de Engenharia de Software — Universidade Católica de Brasília (UCB)
   
 * Atualmente estou focando meus estudos em Desenvolvimento de Softwares.
   
 * Focado em resolução de problemas, lógica de programação e aprendizado de novas
-  tecnologias
+tecnologias
   
 * Interesse em segurança da informação e segurança de sistemas
   
