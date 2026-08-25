@@ -58,7 +58,7 @@
 
 <br/>
 
-## Card de perfil
+## Card do meu perfil
 
 <div align="center">
 
