@@ -49,26 +49,6 @@
 
 <br/>
 
-## Atividade recente
-
-<div align="center">
-
-[![samuelbraga-git github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelbraga-git&bg_color=000000&color=#7928CA&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-## Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=samuelbraga-git&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7928CA&height=120&section=footer" width="100%" />
 </div>
