@@ -53,7 +53,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/samuelbraga-git/samuelbraga-git/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/samuelbraga-git/samuelbraga-git/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation dark](https://raw.githubusercontent.com/samuelbraga-git/samuelbraga-git/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
@@ -72,5 +73,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7928CA&height=120&section=footer" width="100%" />
 </div>
-
-
