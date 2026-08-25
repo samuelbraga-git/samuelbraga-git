@@ -49,8 +49,6 @@
 
 <br/>
 
-## Contribuições
-
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/samuelbraga-git/samuelbraga-git/output/github-contribution-grid-snake.svg#gh-light-mode-only)
