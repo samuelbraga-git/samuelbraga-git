@@ -49,6 +49,28 @@
 
 <br/>
 
+## Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/samuelbraga-git/samuelbraga-git/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+<br/>
+
+## Card de perfil
+
+<div align="center">
+
+<img src="https://githubcard.com/samuelbraga-git.svg" alt="GitHub profile card" />
+
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7928CA&height=120&section=footer" width="100%" />
 </div>
+
+
