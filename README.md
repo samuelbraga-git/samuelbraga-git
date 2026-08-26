@@ -25,9 +25,9 @@
 <br/>
 
 ## Sobre mim
-
+<!-- 
 <img align="right" width="280" src="https://github.com/user-attachments/assets/06c89791-664b-4982-bf3f-654f25f8c64e" />
-
+-->
 - Estudante de **Engenharia de Software** na **Universidade Católica de Brasília (UCB)**
 - Atualmente focando meus estudos em **Desenvolvimento de Software**
 - Buscando oportunidades de **estágio em Desenvolvimento de Software**
