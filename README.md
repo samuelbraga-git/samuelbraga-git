@@ -50,14 +50,14 @@
 <br/>
 
 <div align="center">
-
+<!-- 
 ![Snake animation](https://raw.githubusercontent.com/samuelbraga-git/samuelbraga-git/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation dark](https://raw.githubusercontent.com/samuelbraga-git/samuelbraga-git/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
 <br/>
-
+<!-- 
 ## Card do meu perfil
 
 <div align="center">
